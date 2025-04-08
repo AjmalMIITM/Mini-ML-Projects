@@ -6,5 +6,5 @@ Hands-on projects to master ML, deep learning, NLP, LLMs, and real-world AI.
 - **Dataset**: Titanic (891 rows, 12 cols).
 - **Code**: [week1-shap-lime/](week1-shap-lime/)
 
-## Progress
+## Progress 
 - Week 1/52 - Apr 8, 2025
