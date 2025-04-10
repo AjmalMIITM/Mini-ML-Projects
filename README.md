@@ -7,4 +7,4 @@ Hands-on projects to master ML, deep learning, NLP, LLMs, and real-world AI.
 - **Code**: [week1-shap-lime/](week1-shap-lime/)
 
 ## Progress 
-- Week 1/52 - Apr 8, 2025
+- Week 1 - Apr 8, 2025
